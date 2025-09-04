@@ -1,0 +1,798 @@
+[2025-03-28 17:18:11] Processing quote for Age: 37, License Type: , License Held: 17, Marital Status: Married, NCB: 5, Parking: LockedUp_Garage, Usage: Private, Value: 600000
+[2025-03-28 17:18:11] Starting quote calculation
+[2025-03-28 17:18:11] Age Rating: -0.1
+[2025-03-28 17:18:11] License Type Rating: 0
+[2025-03-28 17:18:11] Year of Issue Rating: -0.3
+[2025-03-28 17:18:11] Marital Status Rating: -0.1
+[2025-03-28 17:18:11] NCB Rating: -0.4
+[2025-03-28 17:18:11] Parking Rating: -0.1
+[2025-03-28 17:18:11] Title Rating: 0.075
+[2025-03-28 17:18:11] Vehicle Use Rating: 0
+[2025-03-28 17:18:11] Vehicle Value Rating: 0.015
+[2025-03-28 17:18:11] Matrix Discount/Loading Rating: -0.4
+[2025-03-28 17:18:11] Base Rate Value: 0.015
+[2025-03-28 17:18:11] Base Rate Premium: 750
+[2025-03-28 17:18:11] Matrix Premium: -300
+[2025-03-28 17:18:11] Risk Premium: 450
+[2025-03-28 17:18:11] Total Fees: 387.06
+[2025-03-28 17:18:11] Outsource Fee: 56.25
+[2025-03-28 17:18:11] Final Total Fees: 443.31
+[2025-03-28 17:18:11] Risk Premium 6: 893.31
+[2025-03-28 17:18:11] Risk Premium 5: 495
+[2025-03-28 17:18:11] Risk Premium 4: 544.5
+[2025-03-28 17:18:11] Risk Premium Flat: 645
+[2025-03-28 17:18:11] Final Premiums - Premium6: 893.31, Premium5: 938.31, Premium4: 987.81, Premium Flat: 1088.31
+[2025-03-28 17:18:11] Starting quote calculation
+[2025-03-28 17:18:11] Age Rating: -0.1
+[2025-03-28 17:18:11] License Type Rating: 0
+[2025-03-28 17:18:11] Year of Issue Rating: -0.3
+[2025-03-28 17:18:11] Marital Status Rating: -0.1
+[2025-03-28 17:18:11] NCB Rating: -0.4
+[2025-03-28 17:18:11] Parking Rating: -0.1
+[2025-03-28 17:18:11] Title Rating: 0.075
+[2025-03-28 17:18:11] Vehicle Use Rating: 0
+[2025-03-28 17:18:11] Vehicle Value Rating: 0.015
+[2025-03-28 17:18:11] Matrix Discount/Loading Rating: -0.4
+[2025-03-28 17:18:11] Base Rate Value: 0.015
+[2025-03-28 17:18:11] Base Rate Premium: 750
+[2025-03-28 17:18:11] Matrix Premium: -300
+[2025-03-28 17:18:11] Risk Premium: 450
+[2025-03-28 17:18:11] Total Fees: 387.06
+[2025-03-28 17:18:11] Outsource Fee: 56.25
+[2025-03-28 17:18:11] Final Total Fees: 443.31
+[2025-03-28 17:18:11] Risk Premium 6: 893.31
+[2025-03-28 17:18:11] Risk Premium 5: 495
+[2025-03-28 17:18:11] Risk Premium 4: 544.5
+[2025-03-28 17:18:11] Risk Premium Flat: 645
+[2025-03-28 17:20:08] Processing quote for Age: 37, License Type: , License Held: 17, Marital Status: Married, NCB: 5, Parking: LockedUp_Garage, Usage: Private, Value: 600000
+[2025-03-28 17:20:08] Starting quote calculation
+[2025-03-28 17:20:08] Age Rating: -0.1
+[2025-03-28 17:20:08] License Type Rating: 0
+[2025-03-28 17:20:08] Year of Issue Rating: -0.3
+[2025-03-28 17:20:08] Marital Status Rating: -0.1
+[2025-03-28 17:20:08] NCB Rating: -0.4
+[2025-03-28 17:20:08] Parking Rating: -0.1
+[2025-03-28 17:20:08] Title Rating: 0.075
+[2025-03-28 17:20:08] Vehicle Use Rating: 0
+[2025-03-28 17:20:08] Vehicle Value Rating: 0.015
+[2025-03-28 17:20:08] Matrix Discount/Loading Rating: -0.4
+[2025-03-28 17:20:08] Base Rate Value: 0.015
+[2025-03-28 17:20:08] Base Rate Premium: 750
+[2025-03-28 17:20:08] Matrix Premium: -300
+[2025-03-28 17:20:08] Risk Premium: 450
+[2025-03-28 17:20:08] Total Fees: 387.06
+[2025-03-28 17:20:08] Outsource Fee: 56.25
+[2025-03-28 17:20:08] Final Total Fees: 443.31
+[2025-03-28 17:20:08] Risk Premium 6: 893.31
+[2025-03-28 17:20:08] Risk Premium 5: 495
+[2025-03-28 17:20:08] Risk Premium 4: 544.5
+[2025-03-28 17:20:08] Risk Premium Flat: 645
+[2025-03-28 17:20:08] Final Premiums - Premium6: 893.31, Premium5: 938.31, Premium4: 987.81, Premium Flat: 1088.31
+[2025-03-28 17:20:08] Starting quote calculation
+[2025-03-28 17:20:08] Age Rating: -0.1
+[2025-03-28 17:20:08] License Type Rating: 0
+[2025-03-28 17:20:08] Year of Issue Rating: -0.3
+[2025-03-28 17:20:08] Marital Status Rating: -0.1
+[2025-03-28 17:20:08] NCB Rating: -0.4
+[2025-03-28 17:20:08] Parking Rating: -0.1
+[2025-03-28 17:20:08] Title Rating: 0.075
+[2025-03-28 17:20:08] Vehicle Use Rating: 0
+[2025-03-28 17:20:08] Vehicle Value Rating: 0.015
+[2025-03-28 17:20:08] Matrix Discount/Loading Rating: -0.4
+[2025-03-28 17:20:08] Base Rate Value: 0.015
+[2025-03-28 17:20:08] Base Rate Premium: 750
+[2025-03-28 17:20:08] Matrix Premium: -300
+[2025-03-28 17:20:08] Risk Premium: 450
+[2025-03-28 17:20:08] Total Fees: 387.06
+[2025-03-28 17:20:08] Outsource Fee: 56.25
+[2025-03-28 17:20:08] Final Total Fees: 443.31
+[2025-03-28 17:20:08] Risk Premium 6: 893.31
+[2025-03-28 17:20:08] Risk Premium 5: 495
+[2025-03-28 17:20:08] Risk Premium 4: 544.5
+[2025-03-28 17:20:08] Risk Premium Flat: 645
+[2025-03-28 17:51:37] Processing quote - Licence Type: B, Age: 37, Vehicle Value: 500000
+[2025-03-28 17:51:37] Starting quote calculation
+[2025-03-28 17:51:37] Age Rating: -0.1
+[2025-03-28 17:51:37] License Type Rating: -0.15
+[2025-03-28 17:51:37] Year of Issue Rating: -0.3
+[2025-03-28 17:51:37] Marital Status Rating: 0.075
+[2025-03-28 17:51:37] NCB Rating: -0.4
+[2025-03-28 17:51:37] Parking Rating: 0
+[2025-03-28 17:51:37] Title Rating: 0.075
+[2025-03-28 17:51:37] Vehicle Use Rating: 0
+[2025-03-28 17:51:37] Vehicle Value Rating: 0.018
+[2025-03-28 17:51:37] Matrix Discount/Loading Rating: -0.4
+[2025-03-28 17:51:37] Base Rate Value: 0.018
+[2025-03-28 17:51:37] Base Rate Premium: 750
+[2025-03-28 17:51:37] Matrix Premium: -300
+[2025-03-28 17:51:37] Risk Premium: 450
+[2025-03-28 17:51:37] Total Fees: 387.06
+[2025-03-28 17:51:37] Outsource Fee: 56.25
+[2025-03-28 17:51:37] Final Total Fees: 443.31
+[2025-03-28 17:51:37] Risk Premium 6: 893.31
+[2025-03-28 17:51:37] Risk Premium 5: 495
+[2025-03-28 17:51:37] Risk Premium 4: 544.5
+[2025-03-28 17:51:37] Risk Premium Flat: 645
+[2025-03-28 17:51:37] Calculated Premiums - Premium6: 893.31, Premium5: 938.31, Premium4: 987.81, Premium Flat: 1088.31
+[2025-03-28 17:53:57] Processing quote - Licence Type: B, Age: 37, Vehicle Value: 500000
+[2025-03-28 17:53:57] Starting quote calculation
+[2025-03-28 17:53:57] Age Rating: -0.1
+[2025-03-28 17:53:57] License Type Rating: -0.15
+[2025-03-28 17:53:57] Year of Issue Rating: -0.3
+[2025-03-28 17:53:57] Marital Status Rating: 0.075
+[2025-03-28 17:53:57] NCB Rating: -0.4
+[2025-03-28 17:53:57] Parking Rating: 0
+[2025-03-28 17:53:57] Title Rating: 0.075
+[2025-03-28 17:53:57] Vehicle Use Rating: 0
+[2025-03-28 17:53:57] Vehicle Value Rating: 0.018
+[2025-03-28 17:53:57] Matrix Discount/Loading Rating: -0.4
+[2025-03-28 17:53:57] Base Rate Value: 0.018
+[2025-03-28 17:53:57] Base Rate Premium: 750
+[2025-03-28 17:53:57] Matrix Premium: -300
+[2025-03-28 17:53:57] Risk Premium: 450
+[2025-03-28 17:53:57] Total Fees: 387.06
+[2025-03-28 17:53:57] Outsource Fee: 56.25
+[2025-03-28 17:53:57] Final Total Fees: 443.31
+[2025-03-28 17:53:57] Risk Premium 6: 893.31
+[2025-03-28 17:53:57] Risk Premium 5: 495
+[2025-03-28 17:53:57] Risk Premium 4: 544.5
+[2025-03-28 17:53:57] Risk Premium Flat: 645
+[2025-03-28 17:53:57] Calculated Premiums - Premium6: 893.31, Premium5: 938.31, Premium4: 987.81, Premium Flat: 1088.31
+[2025-03-28 17:54:24] Processing quote - Licence Type: B, Age: 37, Vehicle Value: 125000
+[2025-03-28 17:54:24] Starting quote calculation
+[2025-03-28 17:54:24] Age Rating: -0.1
+[2025-03-28 17:54:24] License Type Rating: -0.15
+[2025-03-28 17:54:24] Year of Issue Rating: -0.3
+[2025-03-28 17:54:24] Marital Status Rating: -0.1
+[2025-03-28 17:54:24] NCB Rating: -0.4
+[2025-03-28 17:54:24] Parking Rating: 0
+[2025-03-28 17:54:24] Title Rating: 0.075
+[2025-03-28 17:54:24] Vehicle Use Rating: 0
+[2025-03-28 17:54:24] Vehicle Value Rating: 0.04
+[2025-03-28 17:54:24] Matrix Discount/Loading Rating: -0.4
+[2025-03-28 17:54:24] Base Rate Value: 0.04
+[2025-03-28 17:54:24] Base Rate Premium: 416.66666666667
+[2025-03-28 17:54:24] Matrix Premium: -166.66666666667
+[2025-03-28 17:54:24] Risk Premium: 250
+[2025-03-28 17:54:24] Total Fees: 387.06
+[2025-03-28 17:54:24] Outsource Fee: 31.25
+[2025-03-28 17:54:24] Final Total Fees: 418.31
+[2025-03-28 17:54:24] Risk Premium 6: 668.31
+[2025-03-28 17:54:24] Risk Premium 5: 275
+[2025-03-28 17:54:24] Risk Premium 4: 302.5
+[2025-03-28 17:54:24] Risk Premium Flat: 445
+[2025-03-28 17:54:24] Calculated Premiums - Premium6: 668.31, Premium5: 693.31, Premium4: 720.81, Premium Flat: 863.31
+[2025-03-28 22:47:50] Processing quote - Licence Type: EB, Age: 37, Vehicle Value: 160805
+[2025-03-28 22:47:50] Starting quote calculation
+[2025-03-28 22:47:50] Age Rating: -0.1
+[2025-03-28 22:47:50] License Type Rating: -0.15
+[2025-03-28 22:47:50] Year of Issue Rating: -0.3
+[2025-03-28 22:47:50] Marital Status Rating: -0.1
+[2025-03-28 22:47:50] NCB Rating: -0.35
+[2025-03-28 22:47:50] Parking Rating: 0
+[2025-03-28 22:47:50] Title Rating: 0.075
+[2025-03-28 22:47:50] Vehicle Use Rating: 0
+[2025-03-28 22:47:50] Vehicle Value Rating: 0.03
+[2025-03-28 22:47:50] Matrix Discount/Loading Rating: -0.4
+[2025-03-28 22:47:50] Base Rate Value: 0.03
+[2025-03-28 22:47:50] Base Rate Premium: 402.0125
+[2025-03-28 22:47:50] Matrix Premium: -160.805
+[2025-03-28 22:47:50] Risk Premium: 241.2075
+[2025-03-28 22:47:50] Total Fees: 387.06
+[2025-03-28 22:47:50] Outsource Fee: 30.1509375
+[2025-03-28 22:47:50] Final Total Fees: 417.2109375
+[2025-03-28 22:47:50] Risk Premium 6: 658.4184375
+[2025-03-28 22:47:50] Risk Premium 5: 265.32825
+[2025-03-28 22:47:50] Risk Premium 4: 291.861075
+[2025-03-28 22:47:50] Risk Premium Flat: 436.2075
+[2025-03-28 22:47:50] Calculated Premiums - Premium6: 658.4184375, Premium5: 682.5391875, Premium4: 709.0720125, Premium Flat: 853.4184375
+[2025-03-28 22:50:20] Processing quote - Licence Type: EB, Age: 37, Vehicle Value: 160805
+[2025-03-28 22:50:20] Starting quote calculation
+[2025-03-28 22:50:20] Age Rating: -0.1
+[2025-03-28 22:50:20] Licence Type Rating: -0.15
+[2025-03-28 22:50:20] Year of Issue Rating: -0.3
+[2025-03-28 22:50:20] Marital Status Rating: -0.1
+[2025-03-28 22:50:20] NCB Rating: -0.35
+[2025-03-28 22:50:20] Parking Rating: 0
+[2025-03-28 22:50:20] Title Rating: 0.075
+[2025-03-28 22:50:20] Vehicle Use Rating: 0
+[2025-03-28 22:50:20] Vehicle Value Rating: 0.03
+[2025-03-28 22:50:20] Matrix Discount/Loading Rating: -0.4
+[2025-03-28 22:50:20] Base Rate Value: 0.03
+[2025-03-28 22:50:20] Base Rate Premium: 402.0125
+[2025-03-28 22:50:20] Matrix Premium: -160.805
+[2025-03-28 22:50:20] Risk Premium: 241.2075
+[2025-03-28 22:50:20] Total Fees: 387.06
+[2025-03-28 22:50:20] Outsource Fee: 30.1509375
+[2025-03-28 22:50:20] Final Total Fees: 417.2109375
+[2025-03-28 22:50:20] Risk Premium 6: 658.4184375
+[2025-03-28 22:50:20] Risk Premium 5: 265.32825
+[2025-03-28 22:50:20] Risk Premium 4: 291.861075
+[2025-03-28 22:50:20] Risk Premium Flat: 436.2075
+[2025-03-28 22:50:20] Calculated Premiums - Premium6: 658.4184375, Premium5: 682.5391875, Premium4: 709.0720125, Premium Flat: 853.4184375
+[2025-03-28 22:50:20] Binding UPDATE - licence Type: EB
+[2025-03-28 22:50:20] Quote saved successfully - Quote ID: 37
+[2025-03-28 23:07:15] Processing quote - Licence Type: EB, Age: 37, Vehicle Value: 123456
+[2025-03-28 23:07:15] Starting quote calculation
+[2025-03-28 23:07:15] Age Rating: -0.1
+[2025-03-28 23:07:15] Licence Type Rating: -0.15
+[2025-03-28 23:07:15] Year of Issue Rating: -0.3
+[2025-03-28 23:07:15] Marital Status Rating: -0.1
+[2025-03-28 23:07:15] NCB Rating: -0.175
+[2025-03-28 23:07:15] Parking Rating: 0
+[2025-03-28 23:07:15] Title Rating: 0.075
+[2025-03-28 23:07:15] Vehicle Use Rating: 0
+[2025-03-28 23:07:15] Vehicle Value Rating: 0.04
+[2025-03-28 23:07:15] Matrix Discount/Loading Rating: -0.4
+[2025-03-28 23:07:15] Base Rate Value: 0.04
+[2025-03-28 23:07:15] Base Rate Premium: 411.52
+[2025-03-28 23:07:15] Matrix Premium: -164.608
+[2025-03-28 23:07:15] Risk Premium: 246.912
+[2025-03-28 23:07:15] Total Fees: 387.06
+[2025-03-28 23:07:15] Outsource Fee: 30.864
+[2025-03-28 23:07:15] Final Total Fees: 417.924
+[2025-03-28 23:07:15] Risk Premium 6: 664.836
+[2025-03-28 23:07:15] Risk Premium 5: 271.6032
+[2025-03-28 23:07:15] Risk Premium 4: 298.76352
+[2025-03-28 23:07:15] Risk Premium Flat: 441.912
+[2025-03-28 23:07:15] Calculated Premiums - Premium6: 664.836, Premium5: 689.5272, Premium4: 716.68752, Premium Flat: 859.836
+[2025-03-28 23:07:15] Binding UPDATE - licence Type: EB
+[2025-03-28 23:07:15] Quote saved successfully - Quote ID: 24
+[2025-03-28 23:07:44] Processing quote - Licence Type: EB, Age: 37, Vehicle Value: 500000
+[2025-03-28 23:07:44] Starting quote calculation
+[2025-03-28 23:07:44] Age Rating: -0.1
+[2025-03-28 23:07:44] Licence Type Rating: -0.15
+[2025-03-28 23:07:44] Year of Issue Rating: -0.3
+[2025-03-28 23:07:44] Marital Status Rating: 0.075
+[2025-03-28 23:07:44] NCB Rating: -0.4
+[2025-03-28 23:07:44] Parking Rating: 0
+[2025-03-28 23:07:44] Title Rating: 0.075
+[2025-03-28 23:07:44] Vehicle Use Rating: 0
+[2025-03-28 23:07:44] Vehicle Value Rating: 0.018
+[2025-03-28 23:07:44] Matrix Discount/Loading Rating: -0.4
+[2025-03-28 23:07:44] Base Rate Value: 0.018
+[2025-03-28 23:07:44] Base Rate Premium: 750
+[2025-03-28 23:07:44] Matrix Premium: -300
+[2025-03-28 23:07:44] Risk Premium: 450
+[2025-03-28 23:07:44] Total Fees: 387.06
+[2025-03-28 23:07:44] Outsource Fee: 56.25
+[2025-03-28 23:07:44] Final Total Fees: 443.31
+[2025-03-28 23:07:44] Risk Premium 6: 893.31
+[2025-03-28 23:07:44] Risk Premium 5: 495
+[2025-03-28 23:07:44] Risk Premium 4: 544.5
+[2025-03-28 23:07:44] Risk Premium Flat: 645
+[2025-03-28 23:07:44] Calculated Premiums - Premium6: 893.31, Premium5: 938.31, Premium4: 987.81, Premium Flat: 1088.31
+[2025-03-28 23:07:44] Binding UPDATE - licence Type: EB
+[2025-03-28 23:07:44] Quote saved successfully - Quote ID: 33
+[2025-03-28 23:07:58] Processing quote - Licence Type: C1, Age: 37, Vehicle Value: 125000
+[2025-03-28 23:07:58] Starting quote calculation
+[2025-03-28 23:07:58] Age Rating: -0.1
+[2025-03-28 23:07:58] Licence Type Rating: 0.2
+[2025-03-28 23:07:58] Year of Issue Rating: -0.3
+[2025-03-28 23:07:58] Marital Status Rating: -0.1
+[2025-03-28 23:07:58] NCB Rating: -0.4
+[2025-03-28 23:07:58] Parking Rating: 0
+[2025-03-28 23:07:58] Title Rating: 0.075
+[2025-03-28 23:07:58] Vehicle Use Rating: 0
+[2025-03-28 23:07:58] Vehicle Value Rating: 0.04
+[2025-03-28 23:07:58] Matrix Discount/Loading Rating: -0.4
+[2025-03-28 23:07:58] Base Rate Value: 0.04
+[2025-03-28 23:07:58] Base Rate Premium: 416.66666666667
+[2025-03-28 23:07:58] Matrix Premium: -166.66666666667
+[2025-03-28 23:07:58] Risk Premium: 250
+[2025-03-28 23:07:58] Total Fees: 387.06
+[2025-03-28 23:07:58] Outsource Fee: 31.25
+[2025-03-28 23:07:58] Final Total Fees: 418.31
+[2025-03-28 23:07:58] Risk Premium 6: 668.31
+[2025-03-28 23:07:58] Risk Premium 5: 275
+[2025-03-28 23:07:58] Risk Premium 4: 302.5
+[2025-03-28 23:07:58] Risk Premium Flat: 445
+[2025-03-28 23:07:58] Calculated Premiums - Premium6: 668.31, Premium5: 693.31, Premium4: 720.81, Premium Flat: 863.31
+[2025-03-28 23:07:58] Binding UPDATE - licence Type: C1
+[2025-03-28 23:07:58] Quote saved successfully - Quote ID: 39
+[2025-03-28 23:08:13] Processing quote - Licence Type: B, Age: 37, Vehicle Value: 125000
+[2025-03-28 23:08:13] Starting quote calculation
+[2025-03-28 23:08:13] Age Rating: -0.1
+[2025-03-28 23:08:13] Licence Type Rating: -0.15
+[2025-03-28 23:08:13] Year of Issue Rating: -0.3
+[2025-03-28 23:08:13] Marital Status Rating: -0.1
+[2025-03-28 23:08:13] NCB Rating: -0.4
+[2025-03-28 23:08:13] Parking Rating: 0
+[2025-03-28 23:08:13] Title Rating: 0.075
+[2025-03-28 23:08:13] Vehicle Use Rating: 0
+[2025-03-28 23:08:13] Vehicle Value Rating: 0.04
+[2025-03-28 23:08:13] Matrix Discount/Loading Rating: -0.4
+[2025-03-28 23:08:13] Base Rate Value: 0.04
+[2025-03-28 23:08:13] Base Rate Premium: 416.66666666667
+[2025-03-28 23:08:13] Matrix Premium: -166.66666666667
+[2025-03-28 23:08:13] Risk Premium: 250
+[2025-03-28 23:08:13] Total Fees: 387.06
+[2025-03-28 23:08:13] Outsource Fee: 31.25
+[2025-03-28 23:08:13] Final Total Fees: 418.31
+[2025-03-28 23:08:13] Risk Premium 6: 668.31
+[2025-03-28 23:08:13] Risk Premium 5: 275
+[2025-03-28 23:08:13] Risk Premium 4: 302.5
+[2025-03-28 23:08:13] Risk Premium Flat: 445
+[2025-03-28 23:08:13] Calculated Premiums - Premium6: 668.31, Premium5: 693.31, Premium4: 720.81, Premium Flat: 863.31
+[2025-03-28 23:08:13] Binding UPDATE - licence Type: B
+[2025-03-28 23:08:13] Quote saved successfully - Quote ID: 38
+[2025-03-28 23:14:33] Processing quote - Licence Type: C1, Age: 37, Vehicle Value: 160805
+[2025-03-28 23:14:33] Starting quote calculation
+[2025-03-28 23:14:33] Age Rating: -0.1
+[2025-03-28 23:14:33] Licence Type Rating: 0.2
+[2025-03-28 23:14:33] Year of Issue Rating: -0.3
+[2025-03-28 23:14:33] Marital Status Rating: -0.1
+[2025-03-28 23:14:33] NCB Rating: -0.35
+[2025-03-28 23:14:33] Parking Rating: 0
+[2025-03-28 23:14:33] Title Rating: 0.075
+[2025-03-28 23:14:33] Vehicle Use Rating: 0
+[2025-03-28 23:14:33] Vehicle Value Rating: 0.03
+[2025-03-28 23:14:33] Matrix Discount/Loading Rating: -0.4
+[2025-03-28 23:14:33] Base Rate Value: 0.03
+[2025-03-28 23:14:33] Base Rate Premium: 402.0125
+[2025-03-28 23:14:33] Matrix Premium: -160.805
+[2025-03-28 23:14:33] Risk Premium: 241.2075
+[2025-03-28 23:14:33] Total Fees: 387.06
+[2025-03-28 23:14:33] Outsource Fee: 30.1509375
+[2025-03-28 23:14:33] Final Total Fees: 417.2109375
+[2025-03-28 23:14:33] Risk Premium 6: 658.4184375
+[2025-03-28 23:14:33] Risk Premium 5: 265.32825
+[2025-03-28 23:14:33] Risk Premium 4: 291.861075
+[2025-03-28 23:14:33] Risk Premium Flat: 436.2075
+[2025-03-28 23:14:33] Calculated Premiums - Premium6: 658.4184375, Premium5: 682.5391875, Premium4: 709.0720125, Premium Flat: 853.4184375
+[2025-03-28 23:14:33] Binding UPDATE - licence Type: C1
+[2025-03-28 23:14:33] Quote saved successfully - Quote ID: 37
+[2025-03-28 23:17:29] Processing quote - Licence Type: C1, Age: 37, Vehicle Value: 160805
+[2025-03-28 23:17:29] Starting quote calculation
+[2025-03-28 23:17:29] Age Rating: -0.1
+[2025-03-28 23:17:29] Licence Type Rating: 0.2
+[2025-03-28 23:17:29] Year of Issue Rating: -0.3
+[2025-03-28 23:17:29] Marital Status Rating: -0.1
+[2025-03-28 23:17:29] NCB Rating: -0.35
+[2025-03-28 23:17:29] Parking Rating: 0
+[2025-03-28 23:17:29] Title Rating: 0.075
+[2025-03-28 23:17:29] Vehicle Use Rating: 0
+[2025-03-28 23:17:29] Vehicle Value Rating: 0.03
+[2025-03-28 23:17:29] Matrix Discount/Loading Rating: -0.4
+[2025-03-28 23:17:29] Base Rate Value: 0.03
+[2025-03-28 23:17:29] Base Rate Premium: 402.0125
+[2025-03-28 23:17:29] Matrix Premium: -160.805
+[2025-03-28 23:17:29] Risk Premium: 241.2075
+[2025-03-28 23:17:29] Total Fees: 387.06
+[2025-03-28 23:17:29] Outsource Fee: 30.1509375
+[2025-03-28 23:17:29] Final Total Fees: 417.2109375
+[2025-03-28 23:17:29] Risk Premium 6: 658.4184375
+[2025-03-28 23:17:29] Risk Premium 5: 265.32825
+[2025-03-28 23:17:29] Risk Premium 4: 291.861075
+[2025-03-28 23:17:29] Risk Premium Flat: 436.2075
+[2025-03-28 23:17:29] Calculated Premiums - Premium6: 658.4184375, Premium5: 682.5391875, Premium4: 709.0720125, Premium Flat: 853.4184375
+[2025-03-28 23:17:29] Binding UPDATE - licence Type: C1
+[2025-03-28 23:17:29] Quote saved successfully - Quote ID: 37
+[2025-03-28 23:55:43] Processing quote - Licence Type: EB, Age: 37, Vehicle Value: 125000
+[2025-03-28 23:55:43] Starting quote calculation
+[2025-03-28 23:55:43] Age Rating: -0.1
+[2025-03-28 23:55:43] Licence Type Rating: -0.15
+[2025-03-28 23:55:43] Year of Issue Rating: -0.3
+[2025-03-28 23:55:43] Marital Status Rating: -0.1
+[2025-03-28 23:55:43] NCB Rating: -0.4
+[2025-03-28 23:55:43] Parking Rating: 0
+[2025-03-28 23:55:43] Title Rating: 0.075
+[2025-03-28 23:55:43] Vehicle Use Rating: 0
+[2025-03-28 23:55:43] Vehicle Value Rating: 0.04
+[2025-03-28 23:55:43] Matrix Discount/Loading Rating: -0.4
+[2025-03-28 23:55:43] Base Rate Value: 0.04
+[2025-03-28 23:55:43] Base Rate Premium: 416.66666666667
+[2025-03-28 23:55:43] Matrix Premium: -166.66666666667
+[2025-03-28 23:55:43] Risk Premium: 250
+[2025-03-28 23:55:43] Total Fees: 387.06
+[2025-03-28 23:55:43] Outsource Fee: 31.25
+[2025-03-28 23:55:43] Final Total Fees: 418.31
+[2025-03-28 23:55:43] Risk Premium 6: 668.31
+[2025-03-28 23:55:43] Risk Premium 5: 275
+[2025-03-28 23:55:43] Risk Premium 4: 302.5
+[2025-03-28 23:55:43] Risk Premium Flat: 445
+[2025-03-28 23:55:43] Calculated Premiums - Premium6: 668.31, Premium5: 693.31, Premium4: 720.81, Premium Flat: 863.31
+[2025-03-28 23:55:43] Binding UPDATE - licence Type: EB
+[2025-03-28 23:55:43] Quote saved successfully - Quote ID: 39
+[2025-03-28 23:59:47] Processing quote - Licence Type: EB, Age: 37, Vehicle Value: 125000
+[2025-03-28 23:59:47] Starting quote calculation
+[2025-03-28 23:59:47] Age Rating: -0.1
+[2025-03-28 23:59:47] Licence Type Rating: -0.15
+[2025-03-28 23:59:47] Year of Issue Rating: -0.3
+[2025-03-28 23:59:47] Marital Status Rating: -0.1
+[2025-03-28 23:59:47] NCB Rating: -0.4
+[2025-03-28 23:59:47] Parking Rating: 0
+[2025-03-28 23:59:47] Title Rating: 0.075
+[2025-03-28 23:59:47] Vehicle Use Rating: 0
+[2025-03-28 23:59:47] Vehicle Value Rating: 0.04
+[2025-03-28 23:59:47] Matrix Discount/Loading Rating: -0.4
+[2025-03-28 23:59:47] Base Rate Value: 0.04
+[2025-03-28 23:59:47] Base Rate Premium: 416.66666666667
+[2025-03-28 23:59:47] Matrix Premium: -166.66666666667
+[2025-03-28 23:59:47] Risk Premium: 250
+[2025-03-28 23:59:47] Total Fees: 387.06
+[2025-03-28 23:59:47] Outsource Fee: 31.25
+[2025-03-28 23:59:47] Final Total Fees: 418.31
+[2025-03-28 23:59:47] Risk Premium 6: 668.31
+[2025-03-28 23:59:47] Risk Premium 5: 275
+[2025-03-28 23:59:47] Risk Premium 4: 302.5
+[2025-03-28 23:59:47] Risk Premium Flat: 445
+[2025-03-28 23:59:47] Calculated Premiums - Premium6: 668.31, Premium5: 693.31, Premium4: 720.81, Premium Flat: 863.31
+[2025-03-28 23:59:47] Binding UPDATE - licence Type: EB
+[2025-03-28 23:59:47] Quote saved successfully - Quote ID: 39
+[2025-03-29 00:03:11] Processing quote - Licence Type: EB, Age: 37, Vehicle Value: 125000
+[2025-03-29 00:03:11] Starting quote calculation
+[2025-03-29 00:03:11] Age Rating: -0.1
+[2025-03-29 00:03:11] Licence Type Rating: -0.15
+[2025-03-29 00:03:11] Year of Issue Rating: -0.3
+[2025-03-29 00:03:11] Marital Status Rating: -0.1
+[2025-03-29 00:03:11] NCB Rating: -0.4
+[2025-03-29 00:03:11] Parking Rating: 0
+[2025-03-29 00:03:11] Title Rating: 0.075
+[2025-03-29 00:03:11] Vehicle Use Rating: 0
+[2025-03-29 00:03:11] Vehicle Value Rating: 0.04
+[2025-03-29 00:03:11] Matrix Discount/Loading Rating: -0.4
+[2025-03-29 00:03:11] Base Rate Value: 0.04
+[2025-03-29 00:03:11] Base Rate Premium: 416.66666666667
+[2025-03-29 00:03:11] Matrix Premium: -166.66666666667
+[2025-03-29 00:03:11] Risk Premium: 250
+[2025-03-29 00:03:11] Total Fees: 387.06
+[2025-03-29 00:03:11] Outsource Fee: 31.25
+[2025-03-29 00:03:11] Final Total Fees: 418.31
+[2025-03-29 00:03:11] Risk Premium 6: 668.31
+[2025-03-29 00:03:11] Risk Premium 5: 275
+[2025-03-29 00:03:11] Risk Premium 4: 302.5
+[2025-03-29 00:03:11] Risk Premium Flat: 445
+[2025-03-29 00:03:11] Calculated Premiums - Premium6: 668.31, Premium5: 693.31, Premium4: 720.81, Premium Flat: 863.31
+[2025-03-29 00:03:11] Binding UPDATE - licence Type: EB
+[2025-03-29 00:03:11] Quote saved successfully - Quote ID: 39
+[2025-03-29 00:13:31] Processing quote - Licence Type: C1, Age: 37, Vehicle Value: 600000
+[2025-03-29 00:13:31] Starting quote calculation
+[2025-03-29 00:13:31] Age Rating: -0.1
+[2025-03-29 00:13:31] Licence Type Rating: 0.2
+[2025-03-29 00:13:31] Year of Issue Rating: -0.2
+[2025-03-29 00:13:31] Marital Status Rating: -0.1
+[2025-03-29 00:13:31] NCB Rating: -0.4
+[2025-03-29 00:13:31] Parking Rating: -0.1
+[2025-03-29 00:13:31] Title Rating: 0.075
+[2025-03-29 00:13:31] Vehicle Use Rating: 0
+[2025-03-29 00:13:31] Vehicle Value Rating: 0.03
+[2025-03-29 00:13:31] Matrix Discount/Loading Rating: -0.4
+[2025-03-29 00:13:31] Base Rate Value: 0.03
+[2025-03-29 00:13:31] Base Rate Premium: 1500
+[2025-03-29 00:13:31] Matrix Premium: -600
+[2025-03-29 00:13:31] Risk Premium: 900
+[2025-03-29 00:13:31] Total Fees: 387.06
+[2025-03-29 00:13:31] Final Total Fees: 387.06
+[2025-03-29 00:13:31] Risk Premium 6: 1287.06
+[2025-03-29 00:13:31] Risk Premium 5: 990
+[2025-03-29 00:13:31] Risk Premium 4: 1089
+[2025-03-29 00:13:31] Risk Premium Flat: 1095
+[2025-03-29 00:13:31] Calculated Premiums - Premium6: 1287.06, Premium5: 1377.06, Premium4: 1476.06, Premium Flat: 1482.06
+[2025-03-29 00:13:31] Binding UPDATE - licence Type: C1
+[2025-03-29 00:13:31] Quote saved successfully - Quote ID: 36
+[2025-03-29 00:14:06] Processing quote - Licence Type: EB, Age: 37, Vehicle Value: 500000
+[2025-03-29 00:14:06] Starting quote calculation
+[2025-03-29 00:14:06] Age Rating: -0.1
+[2025-03-29 00:14:06] Licence Type Rating: -0.15
+[2025-03-29 00:14:06] Year of Issue Rating: -0.3
+[2025-03-29 00:14:06] Marital Status Rating: -0.1
+[2025-03-29 00:14:06] NCB Rating: -0.4
+[2025-03-29 00:14:06] Parking Rating: 0
+[2025-03-29 00:14:06] Title Rating: 0.075
+[2025-03-29 00:14:06] Vehicle Use Rating: 0
+[2025-03-29 00:14:06] Vehicle Value Rating: 0.05
+[2025-03-29 00:14:06] Matrix Discount/Loading Rating: -0.4
+[2025-03-29 00:14:06] Base Rate Value: 0.05
+[2025-03-29 00:14:06] Base Rate Premium: 2083.3333333333
+[2025-03-29 00:14:06] Matrix Premium: -833.33333333333
+[2025-03-29 00:14:06] Risk Premium: 1250
+[2025-03-29 00:14:06] Total Fees: 387.06
+[2025-03-29 00:14:06] Final Total Fees: 387.06
+[2025-03-29 00:14:06] Risk Premium 6: 1637.06
+[2025-03-29 00:14:06] Risk Premium 5: 1375
+[2025-03-29 00:14:06] Risk Premium 4: 1512.5
+[2025-03-29 00:14:06] Risk Premium Flat: 1445
+[2025-03-29 00:14:06] Calculated Premiums - Premium6: 1637.06, Premium5: 1762.06, Premium4: 1899.56, Premium Flat: 1832.06
+[2025-03-29 00:14:06] Binding UPDATE - licence Type: EB
+[2025-03-29 00:14:06] Quote saved successfully - Quote ID: 17
+[2025-03-29 00:15:33] Processing quote - Licence Type: C1, Age: 21, Vehicle Value: 400000
+[2025-03-29 00:15:33] Starting quote calculation
+[2025-03-29 00:15:33] Age Rating: 0.3
+[2025-03-29 00:15:33] Licence Type Rating: 0.2
+[2025-03-29 00:15:33] Year of Issue Rating: 0.4
+[2025-03-29 00:15:33] Marital Status Rating: 0.075
+[2025-03-29 00:15:33] NCB Rating: 0
+[2025-03-29 00:15:33] Parking Rating: 0
+[2025-03-29 00:15:33] Title Rating: 0.075
+[2025-03-29 00:15:33] Vehicle Use Rating: 0
+[2025-03-29 00:15:33] Vehicle Value Rating: 0.07
+[2025-03-29 00:15:33] Matrix Discount/Loading Rating: 1.05
+[2025-03-29 00:15:33] Base Rate Value: 0.07
+[2025-03-29 00:15:33] Base Rate Premium: 2333.3333333333
+[2025-03-29 00:15:33] Matrix Premium: 2450
+[2025-03-29 00:15:33] Risk Premium: 4783.3333333333
+[2025-03-29 00:15:33] Total Fees: 387.06
+[2025-03-29 00:15:33] Final Total Fees: 387.06
+[2025-03-29 00:15:33] Risk Premium 6: 5170.3933333333
+[2025-03-29 00:15:33] Risk Premium 5: 5261.6666666667
+[2025-03-29 00:15:33] Risk Premium 4: 5787.8333333333
+[2025-03-29 00:15:33] Risk Premium Flat: 4978.3333333333
+[2025-03-29 00:15:33] Calculated Premiums - Premium6: 5170.3933333333, Premium5: 5648.7266666667, Premium4: 6174.8933333333, Premium Flat: 5365.3933333333
+[2025-03-29 00:15:33] Binding UPDATE - licence Type: C1
+[2025-03-29 00:15:33] Quote saved successfully - Quote ID: 16
+[2025-03-29 00:21:31] Processing quote - Licence Type: C1, Age: 29, Vehicle Value: 400000
+[2025-03-29 00:21:31] Starting quote calculation
+[2025-03-29 00:21:31] Age Rating: 0
+[2025-03-29 00:21:31] Licence Type Rating: 0.2
+[2025-03-29 00:21:31] Year of Issue Rating: -0.2
+[2025-03-29 00:21:31] Marital Status Rating: 0.075
+[2025-03-29 00:21:31] NCB Rating: 0
+[2025-03-29 00:21:31] Parking Rating: -0.1
+[2025-03-29 00:21:31] Title Rating: -0.1
+[2025-03-29 00:21:31] Vehicle Use Rating: 0
+[2025-03-29 00:21:31] Vehicle Value Rating: 0.045
+[2025-03-29 00:21:31] Matrix Discount/Loading Rating: -0.125
+[2025-03-29 00:21:31] Base Rate Value: 0.045
+[2025-03-29 00:21:31] Base Rate Premium: 1500
+[2025-03-29 00:21:31] Matrix Premium: -187.5
+[2025-03-29 00:21:31] Risk Premium: 1312.5
+[2025-03-29 00:21:31] Total Fees: 387.06
+[2025-03-29 00:21:31] Final Total Fees: 387.06
+[2025-03-29 00:21:31] Risk Premium 6: 1699.56
+[2025-03-29 00:21:31] Risk Premium 5: 1443.75
+[2025-03-29 00:21:31] Risk Premium 4: 1588.125
+[2025-03-29 00:21:31] Risk Premium Flat: 1507.5
+[2025-03-29 00:21:31] Calculated Premiums - Premium6: 1699.56, Premium5: 1830.81, Premium4: 1975.185, Premium Flat: 1894.56
+[2025-03-29 00:21:31] Binding UPDATE - licence Type: C1
+[2025-03-29 00:21:31] Quote saved successfully - Quote ID: 19
+[2025-03-29 21:48:37] Processing quote - Licence Type: EB, Age: 37, Vehicle Value: 125000
+[2025-03-29 21:48:37] Starting quote calculation
+[2025-03-29 21:48:37] Age Rating: -0.1
+[2025-03-29 21:48:37] Licence Type Rating: -0.15
+[2025-03-29 21:48:37] Year of Issue Rating: -0.3
+[2025-03-29 21:48:37] Marital Status Rating: -0.1
+[2025-03-29 21:48:37] NCB Rating: -0.4
+[2025-03-29 21:48:37] Parking Rating: 0
+[2025-03-29 21:48:37] Title Rating: 0.075
+[2025-03-29 21:48:37] Vehicle Use Rating: 0
+[2025-03-29 21:48:37] Vehicle Value Rating: 0.07
+[2025-03-29 21:48:37] Matrix Discount/Loading Rating: -0.4
+[2025-03-29 21:48:37] Base Rate Value: 0.07
+[2025-03-29 21:48:37] Base Rate Premium: 729.16666666667
+[2025-03-29 21:48:37] Matrix Premium: -291.66666666667
+[2025-03-29 21:48:37] Risk Premium: 437.5
+[2025-03-29 21:48:37] Total Fees: 387.06
+[2025-03-29 21:48:37] Final Total Fees: 387.06
+[2025-03-29 21:48:37] Risk Premium 6: 824.56
+[2025-03-29 21:48:37] Risk Premium 5: 481.25
+[2025-03-29 21:48:37] Risk Premium 4: 529.375
+[2025-03-29 21:48:37] Risk Premium Flat: 632.5
+[2025-03-29 21:48:37] Calculated Premiums - Premium6: 824.56, Premium5: 868.31, Premium4: 916.435, Premium Flat: 1019.56
+[2025-03-29 21:48:37] Binding UPDATE - licence Type: EB
+[2025-03-29 21:48:37] Quote saved successfully - Quote ID: 39
+[2025-03-30 14:20:01] Processing quote - Licence Type: EB, Age: 37, Vehicle Value: 160805
+[2025-03-30 14:20:01] Starting quote calculation
+[2025-03-30 14:20:01] Age Rating: -0.1
+[2025-03-30 14:20:01] Licence Type Rating: -0.15
+[2025-03-30 14:20:01] Year of Issue Rating: -0.3
+[2025-03-30 14:20:01] Marital Status Rating: -0.1
+[2025-03-30 14:20:01] NCB Rating: -0.35
+[2025-03-30 14:20:01] Parking Rating: 0
+[2025-03-30 14:20:01] Title Rating: 0.075
+[2025-03-30 14:20:01] Vehicle Use Rating: 0
+[2025-03-30 14:20:01] Vehicle Value Rating: 0.065
+[2025-03-30 14:20:01] Matrix Discount/Loading Rating: -0.4
+[2025-03-30 14:20:01] Base Rate Value: 0.065
+[2025-03-30 14:20:01] Base Rate Premium: 871.02708333333
+[2025-03-30 14:20:01] Matrix Premium: -348.41083333333
+[2025-03-30 14:20:01] Risk Premium: 522.61625
+[2025-03-30 14:20:01] Total Fees: 387.06
+[2025-03-30 14:20:01] Final Total Fees: 387.06
+[2025-03-30 14:20:01] Risk Premium 6: 909.67625
+[2025-03-30 14:20:01] Risk Premium 5: 574.877875
+[2025-03-30 14:20:01] Risk Premium 4: 632.3656625
+[2025-03-30 14:20:01] Risk Premium Flat: 717.61625
+[2025-03-30 14:20:01] Calculated Premiums - Premium6: 909.67625, Premium5: 961.937875, Premium4: 1019.4256625, Premium Flat: 1104.67625
+[2025-03-30 14:20:01] Binding UPDATE - licence Type: EB
+[2025-03-30 14:20:01] Quote saved successfully - Quote ID: 37
+[2025-03-30 14:43:48] Processing quote - Licence Type: EB, Age: 37, Vehicle Value: 250000
+[2025-03-30 14:43:48] Starting quote calculation
+[2025-03-30 14:43:48] Age Rating: -0.1
+[2025-03-30 14:43:48] Licence Type Rating: -0.15
+[2025-03-30 14:43:48] Year of Issue Rating: -0.3
+[2025-03-30 14:43:48] Marital Status Rating: -0.1
+[2025-03-30 14:43:48] NCB Rating: -0.175
+[2025-03-30 14:43:48] Parking Rating: 0
+[2025-03-30 14:43:48] Title Rating: 0.075
+[2025-03-30 14:43:48] Vehicle Use Rating: 0
+[2025-03-30 14:43:48] Vehicle Value Rating: 0.06
+[2025-03-30 14:43:48] Matrix Discount/Loading Rating: -0.4
+[2025-03-30 14:43:48] Base Rate Value: 0.06
+[2025-03-30 14:43:48] Base Rate Premium: 1250
+[2025-03-30 14:43:48] Matrix Premium: -500
+[2025-03-30 14:43:48] Risk Premium: 750
+[2025-03-30 14:43:48] Total Fees: 387.06
+[2025-03-30 14:43:48] Final Total Fees: 387.06
+[2025-03-30 14:43:48] Risk Premium 6: 1137.06
+[2025-03-30 14:43:48] Risk Premium 5: 825
+[2025-03-30 14:43:48] Risk Premium 4: 907.5
+[2025-03-30 14:43:48] Risk Premium Flat: 945
+[2025-03-30 14:43:48] Calculated Premiums - Premium6: 1137.06, Premium5: 1212.06, Premium4: 1294.56, Premium Flat: 1332.06
+[2025-03-30 14:43:48] Binding INSERT - licence Type: EB
+[2025-03-30 14:43:48] Quote saved successfully - Quote ID: 41
+[2025-03-30 19:06:23] Processing quote - Licence Type: EB, Age: 37, Vehicle Value: 600000
+[2025-03-30 19:06:23] Starting quote calculation
+[2025-03-30 19:06:23] Age Rating: -0.1
+[2025-03-30 19:06:23] Licence Type Rating: -0.15
+[2025-03-30 19:06:23] Year of Issue Rating: -0.2
+[2025-03-30 19:06:23] Marital Status Rating: -0.1
+[2025-03-30 19:06:23] NCB Rating: -0.4
+[2025-03-30 19:06:23] Parking Rating: -0.1
+[2025-03-30 19:06:23] Title Rating: 0.075
+[2025-03-30 19:06:23] Vehicle Use Rating: 0
+[2025-03-30 19:06:23] Vehicle Value Rating: 0.025
+[2025-03-30 19:06:23] Matrix Discount/Loading Rating: -0.4
+[2025-03-30 19:06:23] Base Rate Value: 0.025
+[2025-03-30 19:06:23] Base Rate Premium: 1250
+[2025-03-30 19:06:23] Matrix Premium: -500
+[2025-03-30 19:06:23] Risk Premium: 750
+[2025-03-30 19:06:23] Total Fees: 387.06
+[2025-03-30 19:06:23] Risk Premium 6: 1137.06
+[2025-03-30 19:06:23] Risk Premium 5: 825
+[2025-03-30 19:06:23] Risk Premium 4: 907.5
+[2025-03-30 19:06:23] Risk Premium Flat: 945
+[2025-03-30 19:06:23] Calculated Premiums - Premium6: 1137.06, Premium5: 1212.06, Premium4: 1294.56, Premium Flat: 1332.06
+[2025-03-30 19:06:23] Security Requirements: Pro-Active Tracker Required, Re-active Tracking Device Required
+[2025-03-30 19:06:23] Binding UPDATE - licence Type: EB
+[2025-03-30 19:06:23] Quote saved successfully - Quote ID: 36
+[2025-03-30 19:13:10] Processing quote - Licence Type: C1, Age: 37, Vehicle Value: 250000
+[2025-03-30 19:13:10] Starting quote calculation
+[2025-03-30 19:13:10] Age Rating: -0.1
+[2025-03-30 19:13:10] Licence Type Rating: 0.2
+[2025-03-30 19:13:10] Year of Issue Rating: -0.3
+[2025-03-30 19:13:10] Marital Status Rating: -0.1
+[2025-03-30 19:13:10] NCB Rating: -0.175
+[2025-03-30 19:13:10] Parking Rating: 0
+[2025-03-30 19:13:10] Title Rating: 0.075
+[2025-03-30 19:13:10] Vehicle Use Rating: 0
+[2025-03-30 19:13:10] Vehicle Value Rating: 0.06
+[2025-03-30 19:13:10] Matrix Discount/Loading Rating: -0.4
+[2025-03-30 19:13:10] Base Rate Value: 0.06
+[2025-03-30 19:13:10] Base Rate Premium: 1250
+[2025-03-30 19:13:10] Matrix Premium: -500
+[2025-03-30 19:13:10] Risk Premium: 750
+[2025-03-30 19:13:10] Total Fees: 387.06
+[2025-03-30 19:13:10] Risk Premium 6: 1137.06
+[2025-03-30 19:13:10] Risk Premium 5: 825
+[2025-03-30 19:13:10] Risk Premium 4: 907.5
+[2025-03-30 19:13:10] Risk Premium Flat: 945
+[2025-03-30 19:13:10] Calculated Premiums - Premium6: 1137.06, Premium5: 1212.06, Premium4: 1294.56, Premium Flat: 1332.06
+[2025-03-30 19:13:10] Security Requirements: Pro-Active Tracker Required
+[2025-03-30 19:13:10] Binding UPDATE - licence Type: C1
+[2025-03-30 19:13:10] Quote saved successfully - Quote ID: 41
+[2025-03-30 19:37:22] Processing quote - Licence Type: C1, Age: 37, Vehicle Value: 125000
+[2025-03-30 19:37:22] Starting quote calculation
+[2025-03-30 19:37:22] Age Rating: -0.1
+[2025-03-30 19:37:22] Licence Type Rating: 0.2
+[2025-03-30 19:37:22] Year of Issue Rating: -0.3
+[2025-03-30 19:37:22] Marital Status Rating: -0.1
+[2025-03-30 19:37:22] NCB Rating: -0.4
+[2025-03-30 19:37:22] Parking Rating: 0
+[2025-03-30 19:37:22] Title Rating: 0.075
+[2025-03-30 19:37:22] Vehicle Use Rating: 0
+[2025-03-30 19:37:22] Vehicle Value Rating: 0.07
+[2025-03-30 19:37:22] Matrix Discount/Loading Rating: -0.4
+[2025-03-30 19:37:22] Base Rate Value: 0.07
+[2025-03-30 19:37:22] Base Rate Premium: 729.16666666667
+[2025-03-30 19:37:22] Matrix Premium: -291.66666666667
+[2025-03-30 19:37:22] Risk Premium: 437.5
+[2025-03-30 19:37:22] Total Fees: 387.06
+[2025-03-30 19:37:22] Risk Premium 6: 824.56
+[2025-03-30 19:37:22] Risk Premium 5: 481.25
+[2025-03-30 19:37:22] Risk Premium 4: 529.375
+[2025-03-30 19:37:22] Risk Premium Flat: 632.5
+[2025-03-30 19:37:22] Calculated Premiums - Premium6: 824.56, Premium5: 868.31, Premium4: 916.435, Premium Flat: 1019.56
+[2025-03-30 19:37:22] Security Requirements: Pro-Active Tracker Required
+[2025-03-30 19:37:22] Binding UPDATE - licence Type: C1
+[2025-03-30 19:37:22] Quote saved successfully - Quote ID: 39
+[2025-03-30 20:17:58] Processing quote - Licence Type: EB, Age: 37, Vehicle Value: 250000
+[2025-03-30 20:17:58] Starting quote calculation
+[2025-03-30 20:17:58] Age Rating: -0.1
+[2025-03-30 20:17:58] Licence Type Rating: -0.15
+[2025-03-30 20:17:58] Year of Issue Rating: -0.3
+[2025-03-30 20:17:58] Marital Status Rating: -0.1
+[2025-03-30 20:17:58] NCB Rating: -0.175
+[2025-03-30 20:17:58] Parking Rating: 0
+[2025-03-30 20:17:58] Title Rating: 0.075
+[2025-03-30 20:17:58] Vehicle Use Rating: 0
+[2025-03-30 20:17:58] Vehicle Value Rating: 0.06
+[2025-03-30 20:17:58] Matrix Discount/Loading Rating: -0.4
+[2025-03-30 20:17:58] Base Rate Value: 0.06
+[2025-03-30 20:17:58] Base Rate Premium: 1250
+[2025-03-30 20:17:58] Matrix Premium: -500
+[2025-03-30 20:17:58] Risk Premium: 750
+[2025-03-30 20:17:58] Total Fees: 387.06
+[2025-03-30 20:17:58] Risk Premium 6: 1137.06
+[2025-03-30 20:17:58] Risk Premium 5: 825
+[2025-03-30 20:17:58] Risk Premium 4: 907.5
+[2025-03-30 20:17:58] Risk Premium Flat: 945
+[2025-03-30 20:17:58] Calculated Premiums - Premium6: 1137.06, Premium5: 1212.06, Premium4: 1294.56, Premium Flat: 1332.06
+[2025-03-30 20:17:58] Security Requirements: Pro-Active Tracker Required
+[2025-03-30 20:17:58] Binding UPDATE - licence Type: EB
+[2025-03-30 20:17:58] Quote saved successfully - Quote ID: 41
+[2025-03-30 20:32:11] Processing quote - Licence Type: EB, Age: 37, Vehicle Value: 500000
+[2025-03-30 20:32:11] Starting quote calculation
+[2025-03-30 20:32:11] Age Rating: -0.1
+[2025-03-30 20:32:11] Licence Type Rating: -0.15
+[2025-03-30 20:32:11] Year of Issue Rating: -0.3
+[2025-03-30 20:32:11] Marital Status Rating: 0.075
+[2025-03-30 20:32:11] NCB Rating: -0.4
+[2025-03-30 20:32:11] Parking Rating: 0
+[2025-03-30 20:32:11] Title Rating: 0.075
+[2025-03-30 20:32:11] Vehicle Use Rating: 0
+[2025-03-30 20:32:11] Vehicle Value Rating: 0.035
+[2025-03-30 20:32:11] Matrix Discount/Loading Rating: -0.4
+[2025-03-30 20:32:11] Base Rate Value: 0.035
+[2025-03-30 20:32:11] Base Rate Premium: 1458.3333333333
+[2025-03-30 20:32:11] Matrix Premium: -583.33333333333
+[2025-03-30 20:32:11] Risk Premium: 875
+[2025-03-30 20:32:11] Total Fees: 387.06
+[2025-03-30 20:32:11] Risk Premium 6: 1262.06
+[2025-03-30 20:32:11] Risk Premium 5: 962.5
+[2025-03-30 20:32:11] Risk Premium 4: 1058.75
+[2025-03-30 20:32:11] Risk Premium Flat: 1070
+[2025-03-30 20:32:11] Calculated Premiums - Premium6: 1262.06, Premium5: 1349.56, Premium4: 1445.81, Premium Flat: 1457.06
+[2025-03-30 20:32:11] Security Requirements: Pro-Active Tracker Required, Re-active Tracking Device Required
+[2025-03-30 20:32:11] Binding UPDATE - licence Type: EB
+[2025-03-30 20:32:11] Quote saved successfully - Quote ID: 33
+[2025-03-30 20:40:42] Processing quote - Licence Type: EB, Age: 37, Vehicle Value: 500000
+[2025-03-30 20:40:42] Starting quote calculation
+[2025-03-30 20:40:42] Age Rating: -0.1
+[2025-03-30 20:40:42] Licence Type Rating: -0.15
+[2025-03-30 20:40:42] Year of Issue Rating: -0.3
+[2025-03-30 20:40:42] Marital Status Rating: 0.075
+[2025-03-30 20:40:42] NCB Rating: -0.4
+[2025-03-30 20:40:42] Parking Rating: 0
+[2025-03-30 20:40:42] Title Rating: 0.075
+[2025-03-30 20:40:42] Vehicle Use Rating: 0
+[2025-03-30 20:40:42] Vehicle Value Rating: 0.035
+[2025-03-30 20:40:42] Matrix Discount/Loading Rating: -0.4
+[2025-03-30 20:40:42] Base Rate Value: 0.035
+[2025-03-30 20:40:42] Base Rate Premium: 1458.3333333333
+[2025-03-30 20:40:42] Matrix Premium: -583.33333333333
+[2025-03-30 20:40:42] Risk Premium: 875
+[2025-03-30 20:40:42] Total Fees: 387.06
+[2025-03-30 20:40:42] Risk Premium 6: 1262.06
+[2025-03-30 20:40:42] Risk Premium 5: 962.5
+[2025-03-30 20:40:42] Risk Premium 4: 1058.75
+[2025-03-30 20:40:42] Risk Premium Flat: 1070
+[2025-03-30 20:40:42] Calculated Premiums - Premium6: 1262.06, Premium5: 1349.56, Premium4: 1445.81, Premium Flat: 1457.06
+[2025-03-30 20:40:42] Security Requirements: Pro-Active Tracker Required, Re-active Tracking Device Required
+[2025-03-30 20:40:42] Binding UPDATE - licence Type: EB
+[2025-03-30 20:40:42] Quote saved successfully - Quote ID: 33
+[2025-03-30 20:46:31] Processing quote - Licence Type: EB, Age: 37, Vehicle Value: 600000
+[2025-03-30 20:46:31] Starting quote calculation
+[2025-03-30 20:46:31] Age Rating: -0.1
+[2025-03-30 20:46:31] Licence Type Rating: -0.15
+[2025-03-30 20:46:31] Year of Issue Rating: -0.2
+[2025-03-30 20:46:31] Marital Status Rating: -0.1
+[2025-03-30 20:46:31] NCB Rating: -0.4
+[2025-03-30 20:46:31] Parking Rating: -0.1
+[2025-03-30 20:46:31] Title Rating: 0.075
+[2025-03-30 20:46:31] Vehicle Use Rating: 0
+[2025-03-30 20:46:31] Vehicle Value Rating: 0.025
+[2025-03-30 20:46:31] Matrix Discount/Loading Rating: -0.4
+[2025-03-30 20:46:31] Base Rate Value: 0.025
+[2025-03-30 20:46:31] Base Rate Premium: 1250
+[2025-03-30 20:46:31] Matrix Premium: -500
+[2025-03-30 20:46:31] Risk Premium: 750
+[2025-03-30 20:46:31] Total Fees: 387.06
+[2025-03-30 20:46:31] Risk Premium 6: 1137.06
+[2025-03-30 20:46:31] Risk Premium 5: 825
+[2025-03-30 20:46:31] Risk Premium 4: 907.5
+[2025-03-30 20:46:31] Risk Premium Flat: 945
+[2025-03-30 20:46:31] Calculated Premiums - Premium6: 1137.06, Premium5: 1212.06, Premium4: 1294.56, Premium Flat: 1332.06
+[2025-03-30 20:46:31] Security Requirements: Pro-Active Tracker Required, Re-active Tracking Device Required
+[2025-03-30 20:46:31] Binding UPDATE - licence Type: EB
+[2025-03-30 20:46:31] Quote saved successfully - Quote ID: 36

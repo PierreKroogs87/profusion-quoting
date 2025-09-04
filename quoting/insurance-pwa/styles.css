@@ -1,0 +1,89 @@
+/* Base styles */
+body {
+    font-size: 16px; /* Base font size for better readability */
+    line-height: 1.5;
+}
+
+/* Navigation bar */
+.navbtn-purple {
+    background-color: white;
+    color: white;
+    font-size: 1.1rem; /* Slightly larger for nav links */
+}
+
+.navbtn-purple:hover {
+    background-color: #5a0c9b;
+    color: white;
+}
+
+/* Card headers */
+.card-header {
+    background-color: white;
+    font-size: 1.25rem; /* Larger header text */
+    font-weight: bold;
+}
+
+/* Card body text */
+.card-body p {
+    font-size: 1rem; /* Standard text size for card content */
+    margin-bottom: 0.5rem;
+}
+
+/* Card title for vehicles */
+.card-title {
+    font-size: 1.1rem; /* Slightly larger for vehicle titles */
+    font-weight: 600;
+}
+
+/* Responsive adjustments for mobile */
+@media (max-width: 576px) {
+    body {
+        font-size: 14px; /* Slightly smaller base font for small screens, but still readable */
+    }
+
+    .card-header {
+        font-size: 1.1rem;
+    }
+
+    .card-body p {
+        font-size: 0.9rem;
+    }
+
+    .card-title {
+        font-size: 1rem;
+    }
+}
+
+/* Purple button styling */
+.btn-purple {
+    background-color: #6A0DAD;
+    border-color: #6A0DAD;
+    color: #fff;
+    font-size: 1rem;
+    padding: 0.375rem 0.75rem;
+    text-decoration: none;
+    border-radius: 0.25rem;
+}
+
+.btn-purple:hover {
+    background-color: #4B0082;
+    border-color: #4B0082;
+    color: #fff;
+}
+
+.btn-purple:disabled {
+    background-color: #6A0DAD;
+    border-color: #6A0DAD;
+    opacity: 0.65;
+    cursor: not-allowed;
+}
+
+@media (max-width: 576px) {
+        .popover-body img {
+            max-width: 150px;  /* Smaller size for mobile */
+            height: auto;
+        }
+        .popover {
+            max-width: 200px; /* Limit popover width on mobile */
+        }
+    }

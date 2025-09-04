@@ -1,0 +1,79 @@
+<?php
+session_start();
+require 'config.php';
+
+// Log session state for debugging
+error_log("auth-callback.php: Session ID: " . session_id() . ", Session Data: " . json_encode($_SESSION));
+
+// Check for authorization code
+if (!isset($_GET['code'])) {
+    $_SESSION['errors'] = ["No authorization code received."];
+    error_log("No authorization code received in auth-callback.php");
+    header("Location: https://development.profusionum.co.za/insurance-pwa/index.html");
+    exit();
+}
+
+// Validate existing session
+if (!isset($_SESSION['client_id']) && !isset($_SESSION['user_id'])) {
+    $_SESSION['errors'] = ["Session expired. Please log in again."];
+    error_log("Session expired in auth-callback.php: No client_id or user_id");
+    header("Location: https://development.profusionum.co.za/insurance-pwa/index.html");
+    exit();
+}
+
+// Store quote_id from state parameter (if provided)
+$quote_id = $_GET['state'] ?? null;
+if ($quote_id && is_numeric($quote_id)) {
+    $_SESSION['pending_quote_id'] = $quote_id;
+    error_log("auth-callback.php: Stored pending_quote_id: $quote_id");
+}
+
+$code = $_GET['code'];
+$url = "https://login.microsoftonline.com/" . AZURE_TENANT_ID . "/oauth2/v2.0/token";
+$data = [
+    'client_id' => AZURE_CLIENT_ID,
+    'scope' => 'https://graph.microsoft.com/Files.ReadWrite.All offline_access',
+    'code' => $code,
+    'redirect_uri' => 'https://development.profusionum.co.za/insurance-pwa/auth-callback.php',
+    'client_secret' => AZURE_CLIENT_SECRET,
+    'grant_type' => 'authorization_code'
+];
+
+$ch = curl_init($url);
+curl_setopt($ch, CURLOPT_POST, true);
+curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query($data));
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+$response = curl_exec($ch);
+$http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+$curl_error = curl_error($ch);
+curl_close($ch);
+
+if ($http_code !== 200) {
+    $_SESSION['errors'] = ["Failed to exchange authorization code."];
+    error_log("Failed to exchange authorization code: HTTP $http_code, Response: $response, Curl Error: $curl_error");
+    header("Location: https://development.profusionum.co.za/insurance-pwa/index.html");
+    exit();
+}
+
+$token_data = json_decode($response, true);
+if (!isset($token_data['access_token']) || !isset($token_data['refresh_token'])) {
+    $_SESSION['errors'] = ["No access or refresh token received."];
+    error_log("No access or refresh token in response: " . json_encode($token_data));
+    header("Location: https://development.profusionum.co.za/insurance-pwa/index.html");
+    exit();
+}
+
+// Store tokens in session
+$_SESSION['onedrive_access_token'] = $token_data['access_token'];
+$_SESSION['onedrive_refresh_token'] = $token_data['refresh_token'];
+$_SESSION['onedrive_token_expires'] = time() + $token_data['expires_in'];
+
+// Redirect to inspection_photos.php with quote_id if available, else dashboard.php
+$redirect_url = isset($_SESSION['pending_quote_id']) 
+    ? "https://development.profusionum.co.za/insurance-pwa/inspection_photos.php?quote_id=" . $_SESSION['pending_quote_id']
+    : "https://development.profusionum.co.za/insurance-pwa/dashboard.php";
+
+error_log("auth-callback.php: OAuth tokens stored for user: " . ONEDRIVE_USER_ID . ", redirecting to: $redirect_url");
+header("Location: $redirect_url");
+exit();
+?>
