@@ -1,0 +1,24 @@
+Request received: 2025-07-02 03:06:59
+Session: Array
+(
+    [user_id] => 1
+    [role_name] => Profusion SuperAdmin
+    [brokerage_id] => 
+    [client_id] => 8709025006089
+    [client_name] => T Test
+    [user_type] => client
+)
+
+Client ID: 8709025006089
+Request received: 2025-07-02 03:07:41
+Session: Array
+(
+    [user_id] => 1
+    [role_name] => Profusion SuperAdmin
+    [brokerage_id] => 
+    [client_id] => 8709025006089
+    [client_name] => T Test
+    [user_type] => client
+)
+
+Client ID: 8709025006089
